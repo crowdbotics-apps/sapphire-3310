@@ -1,0 +1,3 @@
+rootProject.name = 'sapphire_3310'
+
+include ':app'
